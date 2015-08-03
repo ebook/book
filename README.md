@@ -1,5 +1,7 @@
 #学习笔记
 
+[![Join the chat at https://gitter.im/ebook/book](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ebook/book?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 如果您发现笔记中的错漏，请及时与我联系，以便修正。谢谢！ QQ 群:  257579056 
 
 2013-04-17  《Golang 学习笔记》增加 goroutine 执行机制，代码阅读指南等内容。建议更新！
